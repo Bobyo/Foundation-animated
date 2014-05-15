@@ -1,0 +1,30 @@
+{
+  "name": "foundation-animated",
+  "version": "0.0.1",
+  "description": "A animated version of foundation",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "~0.4.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bowercopy": "^1.0.0"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bobyo/Foundation-animated.git"
+  },
+  "keywords": [
+    "foundation",
+    "animated"
+  ],
+  "author": "Alex Grigore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobyo/Foundation-animated/issues"
+  },
+  "homepage": "https://github.com/Bobyo/Foundation-animated"
+}

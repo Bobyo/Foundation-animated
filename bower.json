@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "private": "true",
   "dependencies": {
-    "foundation": "zurb/bower-foundation"
+    "foundation": "zurb/bower-foundation",
+    "animate": "https://github.com/Bobyo/animate.scss",
+    "animate.scss": "https://github.com/Bobyo/animate.scss.git"
   }
 }
